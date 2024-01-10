@@ -1,0 +1,58 @@
+.body {
+    background-image: url(https://3.bp.blogspot.com/-GQdXZYTeY80/WAsinlu3UaI/AAAAAAAAHpE/4VNvl3IVdW8IPCnHfvpHdbRYQ6dKlY-7wCLcB/s1600/Hacker%2BBackground%2B1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.navbar {
+    color: rgb(8, 138, 138);
+
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-weight: 700;
+}
+.img img {
+    width: 5rem;
+    height: 3rem;
+}
+
+.container .jumbotron {
+    margin-top: 1rem;
+    opacity: 0.9;
+    background-color: rgb(133, 202, 202);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#cardContainer {
+    background-color: rgb(133, 202, 202);
+    /* rgba(255, 255, 255, 0.7) represents a semi-transparent white background */
+    opacity: 0.9;
+    /* Set the opacity of the entire card (text and background) */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+
+}
+
+.display-4 {
+    /* font-size: 3.5rem; */
+    font-size: 10.5vh;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.lead {
+    font-size: 1.50rem;
+    font-weight: 400;
+}
+
+.para {
+    font-size: 1rem;
+    font-weight: 400;
+    /* margin-bottom: 1vw; */
+
+}
